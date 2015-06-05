@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/portfolio-iro" # the subpath of your site, e.g. /blog/
-url: "http://bloc.github.io/" # the base hostname & protocol for your site
+url: "http://madebymunsters.github.io/" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -24,7 +24,7 @@ theme:
   dribbble: "joeykirk"
   facebook: "joeykirk"
   flickr:
-  github: "madebymunsters/type-theme"
+  github: "bloc/portfolio-iro"
   google_plus:
   instagram: "joeykirk"
   linkedin:  # Full URL
